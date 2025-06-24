@@ -17,7 +17,3 @@ If Actor A and Actor B both appeared in Movie X, and Actor B and Actor C both ap
 - `movies.csv`: Contains information about each movie (ID, title, year).
 - `stars.csv`: Maps people to the movies they starred in.
 
-## How to Run
-
-To run the program, use the following command:
-
